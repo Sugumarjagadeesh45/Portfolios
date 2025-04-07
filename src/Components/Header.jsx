@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from "react";
 import { FaGoogle } from "react-icons/fa6";
 import profileimg from "../Assect/profile-img.png";
-import PDF from '../Assect/Resume.pdf'
+import PDF from '../Assect/lastResume.pdf'
 
 export default function Header() {
     const [yearsOfExperience, setYearsOfExperience] = useState(0);
