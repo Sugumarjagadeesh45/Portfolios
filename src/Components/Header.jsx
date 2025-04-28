@@ -133,14 +133,15 @@ export default function Header() {
                         </defs>
                     </svg>
                     <div
-                        className="bg-purple-600 flex items-center justify-center mx-auto"
+                        className="	bg-purple-950 flex items-center justify-center mx-auto"
                         style={{
                             clipPath: `url(#dynamic-blob)`,
                             overflow: 'hidden',
                             height: "100%",
                             width: "100%",
                             boxShadow: "0 0 50px rgba(110, 60, 203, 0.5)",
-                            transition: "all 0.3s ease-in-out"
+                            transition: "all 0.3s ease-in-out",
+                            // backgroundColor: "red"
                         }}
                     >
                         <img
@@ -167,6 +168,6 @@ export default function Header() {
                     <p className="text-sm md:text-lg text-gray-300">Happy Clients</p>
                 </div>
             </div>
-        </div>
+        </div >
     );
 }
