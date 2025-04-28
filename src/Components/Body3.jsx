@@ -8,7 +8,7 @@ export default function Body3() {
     ];
 
     const education = [
-        { year: "2029 - 2023", title: "B.E Computer Science and Engineering", place: "Surya Engineering College, Erode" },
+        { year: "2019 - 2023", title: "B.E Computer Science and Engineering", place: "Surya Engineering College, Erode" },
         { year: "2018 - 2019", title: "12ᵗʰ", place: "M.P.D GOVT. HSC. SCHOOL, Thingalur-638055" },
         { year: "2016 - 2017", title: "10ᵗʰ", place: "M.P.D GOVT. HSC. SCHOOL, Thingalur-638055" },
     ];
